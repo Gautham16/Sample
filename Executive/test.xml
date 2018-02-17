@@ -1,0 +1,30 @@
+
+  <NoSQLDB>
+    <record>
+      <key>
+        Kumar
+      </key>
+      <value>
+        <name>
+          Raj
+        </name>
+        <dateTime>
+          Wed Feb  7 22:43:18 2018
+        </dateTime>
+        <payLoad>
+          Crazy Day
+        </payLoad>
+        <description>
+          New York
+        </description>
+        <children>
+          <key>
+            c1
+          </key>
+          <key>
+            c2
+          </key>
+        </children>
+      </value>
+    </record>
+  </NoSQLDB>
